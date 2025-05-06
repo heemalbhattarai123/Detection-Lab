@@ -110,7 +110,9 @@ Follow the setup instructions provided by PhishTool to integrate it with Thunder
 - [PhishTool](https://phishtool.com)
 - [VirusTotal](https://www.virustotal.com)
 - [How to View Email Headers](https://support.google.com/mail/answer/22454?hl=en)
-
+- [Issue]((https://private-user-images.githubusercontent.com/60652725/440646436-edd3c6cc-9b55-4f24-8f50-0541ad83f61d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1MDkzNDEsIm5iZiI6MTc0NjUwOTA0MSwicGF0aCI6Ii82MDY1MjcyNS80NDA2NDY0MzYtZWRkM2M2Y2MtOWI1NS00ZjI0LThmNTAtMDU0MWFkODNmNjFkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA2VDA1MjQwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkMjc4ZDQ1YzRmNDc2Mzg3Y2YyYjA3Y2IxOGQxNGZhYjRkMzJlZDJmOTZjMDgyYTNkZjgzN2YwYjFjMWQ2ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.923dXlRBhrCqR3Mo5xh4jgkaPLZoD_prW1W2R2hAn04)
+)
+- 
 ---
 
 By completing these exercises, you will gain practical experience in identifying, analyzing, and responding to phishing attacks, enhancing your skills in cybersecurity incident response.
