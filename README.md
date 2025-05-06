@@ -1,8 +1,8 @@
-# Detection Lab
+# Phishing Attack Investigation
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Phishing attacks are a prevalent cybersecurity threat where attackers deceive individuals into providing sensitive information by masquerading as a trustworthy entity. This project aims to equip you with the skills to identify, investigate, and respond to phishing attacks effectively.
 
 ### Skills Learned
 
